@@ -1,0 +1,11 @@
+=== Resultados Estadisticos ===
+Media: 250.7840161861406
+Mediana: 247.0
+Moda: 230.0
+Varianza: 20785.369132479238
+Desviacion estandar: 144.17131868884059
+Rango: 500.0
+Coef. de Variacion (%): 57.48824063086685
+Tiempo de Ejecucion: 0.021995 segundos
+
+Tiempo de ejecucion: 0.021995 segundos
